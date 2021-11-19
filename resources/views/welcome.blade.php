@@ -21,9 +21,7 @@
         </style>
     </head>
     <body class="antialiased">
-        <div style="background-color: #224478;">
-            <h1 style="color: #FFFFFF; background-color: #224478;">Martin Mart&iacute;nez Reynoso</h1>
-        </div>
+        <h1 style="color: #9106BF;">Martin Mart&iacute;nez Reynoso</h1>
         <div class="relative flex items-top justify-center min-h-screen bg-gray-100 dark:bg-gray-900 sm:items-center py-4 sm:pt-0">
             
             @if (Route::has('login'))
